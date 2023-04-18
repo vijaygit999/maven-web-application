@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to vijay Technologies Private Limited. VIJAYAWADA,ANDHRAPRADESH,India </h1>
+<h1 align="center">Welcome to VIJAY Technologies Private Limited. VIJAYAWADA,ANDHRAPRADESH,India </h1>
 <h1 align="center"> vijay Technologies- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
@@ -31,12 +31,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="500">
+		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		vijay Technologies, 
-		main road, Above ICICI Bank, Beside Meghana Foods,
-		vijayawada,
+		railway station road, Above ICICI Bank, near K.R.Market,
+		VIJAYAWADA,
 		+91-7702015143
 		vijaykumar.dev999@gmail.com
 		<br>
