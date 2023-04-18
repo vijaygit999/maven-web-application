@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to vijay Technologies Private Limited. VIJAYAWADA,ANDHRAPRADESH,India </h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center"> vijay Technologies- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,7 +31,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/mithunlogo.jpg" alt="" width="500">
 	</span>
 	<span style="font-weight: bold;">
 		vijay Technologies, 
